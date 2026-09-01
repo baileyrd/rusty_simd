@@ -1,5 +1,7 @@
 # rusty_simd
 
+> **Archived — merged into [Rusty Mill](https://github.com/Rusty-Mill/rusty_mill).** This crate now lives at [`crates/rusty_simd`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_simd) in the Rusty Mill monorepo, which is where active development, issues, and pull requests happen now. This standalone repo is kept for historical reference only.
+
 [![CI](https://github.com/baileyrd/rusty_simd/actions/workflows/ci.yml/badge.svg)](https://github.com/baileyrd/rusty_simd/actions/workflows/ci.yml)
 
 A zero-dependency SIMD (AVX2/NEON/FMA) accelerated block dequantization kernel library for LLM and Whisper inference in Rust.
