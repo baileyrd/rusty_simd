@@ -5,6 +5,7 @@
 > in the [`rusty_mill`](https://github.com/Rusty-Mill/rusty_mill) monorepo, with full commit
 > history preserved. This repository is kept for historical reference and is no longer
 > developed; please open issues and pull requests against `rusty_mill` instead.
+> **Archived — merged into [Rusty Mill](https://github.com/Rusty-Mill/rusty_mill).** This crate now lives at [`crates/rusty_simd`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_simd) in the Rusty Mill monorepo, which is where active development, issues, and pull requests happen now. This standalone repo is kept for historical reference only.
 
 [![CI](https://github.com/baileyrd/rusty_simd/actions/workflows/ci.yml/badge.svg)](https://github.com/baileyrd/rusty_simd/actions/workflows/ci.yml)
 
